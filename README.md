@@ -4,6 +4,9 @@
 🎓 B.Tech in Computer Science and Engineering (Data Science)  
 📧 choudharysmriti1204@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/smriti12) • [GitHub](https://github.com/smritiii12) • [LeetCode](https://leetcode.com/Smriti_Kumari_)
+<a href="https://github.com/smritii12">
+    <img src="https://komarev.com/ghpvc/?username=ranyariti&label=Profile+Views&color=blueviolet&style=flat-square" alt="ranyariti" />
+  </a>
 
 ---
 
@@ -78,3 +81,14 @@ I am a passionate and driven Computer Science and Engineering student with a spe
 ---
 
 📌 *Open to internships, collaborative projects, and full-time opportunities in data science, backend development, and AI/ML domains.*
+<h2>📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ranyariti&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranyariti&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ranyariti&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<hr>
