@@ -4,9 +4,9 @@
 🎓 B.Tech in Computer Science and Engineering (Data Science)  
 📧 choudharysmriti1204@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/smriti12) • [GitHub](https://github.com/smritiii12) • [LeetCode](https://leetcode.com/Smriti_Kumari_)
-<a href="https://github.com/smritii12">
-    <img src="https://komarev.com/ghpvc/?username=smritii12&label=Profile+Views&color=blueviolet&style=flat-square" alt="smritii12" />
-  </a>
+<a href="https://github.com/smritiii12">
+  <img src="https://komarev.com/ghpvc/?username=smritiii12&label=Profile+Views&color=blueviolet&style=flat-square" alt="smritiii12" />
+</a>
 
 ---
 
